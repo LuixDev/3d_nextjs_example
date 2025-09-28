@@ -1,0 +1,11 @@
+video
+https://www.youtube.com/watch?v=vTQ6WI2v2Y0
+
+codigo
+https://mega.nz/file/qjBQBILY#GWyOsZ9zxiwuh-KN41gBs_PPOrYZQbe8NwtDtMlf9Cw
+
+
+ejecucion
+npm install
+npm run build
+npm run start
